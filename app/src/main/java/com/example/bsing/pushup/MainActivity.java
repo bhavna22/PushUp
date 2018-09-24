@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void textUpload(){
         int i=1+1;
+        int j= i+2;
+        int k=j+3;
     }
 }
